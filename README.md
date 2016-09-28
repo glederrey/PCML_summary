@@ -1,2 +1,2 @@
 # PCML_summary
-Summary of the course PCML given in the Autumn Semester of the academical year 2016-2017
+In this repository, you will find the summary of the course PCML (Pattern Classification and Machine Learning) given at the EPFL. 
